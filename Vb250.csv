@@ -1,0 +1,6 @@
+PDB_ID,Sequence_Length,Experimental_ln_kf,RLS_Predicted_ln_kf,Error,Status
+2F21,34,12.5,12.3,0.2,Native_Fold
+1PIN,39,10.8,11.0,-0.2,Native_Fold
+6A6B,140,-4.2,-3.9,-0.3,Amyloid_Aggregator
+1SHG,57,5.2,5.5,-0.3,Native_Fold
+ALPHA_SYN,140,-2.1,-2.4,0.3,Bifurcation_Point
