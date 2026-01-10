@@ -40,3 +40,5 @@ Led by **Stefano Valente, MD**, this project bridges the gap between Clinical Ps
 ## Contact
 
 **Stefano Valente, MD** [ResearchGate Profile](https://www.researchgate.net/profile/Stefano-Valente-2)
+Commercial Use: For proprietary integration or private R&D use, a commercial license is required. Contact: steval88@icloud.com
+
